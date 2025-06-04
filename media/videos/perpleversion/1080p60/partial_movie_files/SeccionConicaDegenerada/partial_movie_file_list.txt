@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/3977891868_344528960_223132457.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_2844360058_1578658370.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_2936613945_996849129.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_4217992463_26418366.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_1658986747_4112859768.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_4217992463_3609676077.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_2717539783_2631099808.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_4217992463_676604023.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_2476480154_4291424896.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_2552855209_2271369807.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/perpleversion/1080p60/partial_movie_files/SeccionConicaDegenerada/2852726489_2754572283_2217050310.mp4'
