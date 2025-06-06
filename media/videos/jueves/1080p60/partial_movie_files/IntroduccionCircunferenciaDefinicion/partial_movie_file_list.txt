@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/2621265332_602569609_223132457.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1295674776_661162061.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1725253354_1874747345.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1545441997_1051646509.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1948012986_1179958454.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1545441997_1226377321.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_3403354614_1171177468.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1295674776_726156990.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_3375146884_3480008189.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1436906429_2868543456.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_2351511973_4117378194.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/jueves/1080p60/partial_movie_files/IntroduccionCircunferenciaDefinicion/4272032393_1924700290_43349715.mp4'
