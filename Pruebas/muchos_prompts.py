@@ -1,4 +1,4 @@
-from AbstracClass import GeminiLLM
+from BaseClass import GeminiLLM
 
 llm = GeminiLLM("AIzaSyCSWVPAhOYUXhjSslvBZDWk9D7BI1tA8Bg")
 #GENERAR ESCENA
@@ -430,4 +430,3 @@ diseño importantes.
 **Cámara:**
 *   Ninguna"""
 b = llm.query(a)
-#print(b)
