@@ -44,7 +44,7 @@ class GeminiLLM(AbstractLLM):
     #asegurarse de que los codigos no tengan comentarios al final
     def GenerateManimCode(self, text, context):
         # Obtener la descripción completa de las escenas
-        scenes_description = self.query(prompt + text)
+        scenes_description = self.query(context + text)
         print("Creación de las escenas:\n" + scenes_description)
         
         # Dividir la descripción en escenas individuales usando split_text (que divide por $$$)

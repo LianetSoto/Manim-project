@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/practica/1080p60/partial_movie_files/CircunferenciaIntroduccion/3977891868_3964384823_223132457.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/practica/1080p60/partial_movie_files/CircunferenciaIntroduccion/2852726489_2844360058_1763400966.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/practica/1080p60/partial_movie_files/CircunferenciaIntroduccion/2852726489_3903989124_3450371293.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/practica/1080p60/partial_movie_files/CircunferenciaIntroduccion/2852726489_2191656074_1666280314.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/practica/1080p60/partial_movie_files/CircunferenciaIntroduccion/2852726489_2844360058_564662541.mp4'
+file 'file:C:/Users/chuly/Documents/GitHub/Manim-project/media/videos/practica/1080p60/partial_movie_files/CircunferenciaIntroduccion/2852726489_59099157_3999984379.mp4'

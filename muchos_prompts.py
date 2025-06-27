@@ -51,7 +51,7 @@ prompt1 = ("Actúa como un ingeniero de prompts especializado en la creación de
 prompt = ("quiero pedirele a un llm que dado un texto me delimite las escenas y los objetos, con sus respectivas propiedades, para posteriormente hacer un video en manim, ayudame a realizar un buen prompt para eso, imagina que eres un ingeniero de prompts, delimita las escenas con un caracter especial para posteriormente separarlas, asimismo, especifica como deberian moverse los objetos en las escenas, el lugar, tiempo en pantalla de cada objeto y otras especificidades que podrian ser necesarias, asegurate de que los objetos no se solapen en las escenas, ademas, solo pasame el prompt, sin sugerencias u otro tipo de informacion")
 
 b = llm.query(prompt)
-print(b)
+#print(b)
 
 # UNA DE LAS RESPUESTAS DEL PROMPT DE ARRIBA
 B = """Eres un ingeniero de prompts experto en generar descripciones detalladas para la creación de animaciones en Manim. Analizarás el texto proporcionado y generarás una descripción estructurada para cada escena, incluyendo objetos, propiedades, movimientos, tiempo en pantalla y ubicación, todo optimizado para la animación en Manim.
@@ -430,4 +430,4 @@ diseño importantes.
 **Cámara:**
 *   Ninguna"""
 b = llm.query(a)
-#print(b)
+print(b)
